@@ -5,7 +5,7 @@ import TodoItem2 from "./components/TodoItem2";
 import "./App.css";
 
 function App() {
-  return <center className="todo-container">
+  return <center class="todo-container">
     <AppName/>
     <AddTodo/>
     <div className="itemscont">
